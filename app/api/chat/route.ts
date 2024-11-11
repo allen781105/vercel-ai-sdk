@@ -1,5 +1,5 @@
 import { openai } from '@ai-sdk/openai';
-import { groq } from '@ai-sdk/groq';
+//import { groq } from '@ai-sdk/groq';
 
 import { streamText } from 'ai';
 
